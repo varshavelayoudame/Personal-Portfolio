@@ -13,9 +13,6 @@ Welcome to my personal portfolio website! This project showcases my work, skills
 ## 🛠️ Technologies Used
 - **HTML5** - For structuring the website.
 - **CSS3** - Styling with animations and responsiveness.
-- **JavaScript** - Enhancing interactivity.
-- **Bootstrap/Tailwind** *(if used)* - For responsive and fast UI design.
-- **GitHub Pages/Netlify/Vercel** *(if deployed)* - For hosting the website.
 
 ## ✨ How to Contribute
 If you'd like to contribute or suggest improvements:
